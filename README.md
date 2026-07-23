@@ -24,4 +24,4 @@ obstacle interaction, without re-planning or leaving the solution branch.
 
 https://github.com/user-attachments/assets/77933ecc-79b5-467a-ac12-f3f8fc5ff067
 
-https://github.com/TommasoPignata/Analytical-IK-solver-7-DOF-TOM/blob/1c2c0a642d7035152263fc3d7f578fbdc29d4553/Hybrid_Sim.mp4
+Eߣ�B��B��B�B�B��matroskaB��B��S�g
