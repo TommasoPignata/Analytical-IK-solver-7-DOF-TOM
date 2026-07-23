@@ -4,7 +4,7 @@ A closed-form inverse kinematics solver for 7-DOF anthropomorphic
 
 Unlike numerical solvers, it returns all solution branches
 deterministically, with no seed pose, no convergence failures, and
-bounded computation time — making it suitable for real-time servo and
+bounded computation time making it suitable for real-time servo and
 force control loops.
 
 **Status:** validated on KUKA hardware.
