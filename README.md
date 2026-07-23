@@ -11,8 +11,6 @@ force control loops.
 Includes URDF-to-DH extraction so it runs on any arm whose DH table
 correctly describes it.
 
-This repository hosts demonstration videos.
-
 ## Demos
 
 ### Arm-angle decoupling with target pose
