@@ -7,7 +7,7 @@ deterministically, with no seed pose, no convergence failures, and
 bounded computation time — making it suitable for real-time servo and
 force control loops.
 
-**Status:** validated on KUKA hardware, generalised to Kinova Gen3.
+**Status:** validated on KUKA hardware.
 Includes URDF-to-DH extraction so it runs on any arm whose DH table
 correctly describes it.
 
@@ -21,15 +21,8 @@ Shows the redundancy parameter being varied independently of the
 end-effector pose — the arm sweeps through its null space while the
 tool frame stays fixed.
 
-[video]
-
 ### Control-mode transitions
 Position control → servo-mode null-space exploration → force-controlled
 obstacle interaction, without re-planning or leaving the solution branch.
-
-[video]
-
-## Stack
-MATLAB (derivation and validation) · Python / ROS2 · Gazebo
 
 https://github.com/user-attachments/assets/77933ecc-79b5-467a-ac12-f3f8fc5ff067
